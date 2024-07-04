@@ -1,2 +1,5 @@
 *.xtc
 *.rdf
+*.toml
+*.dat
+*.ipynb
